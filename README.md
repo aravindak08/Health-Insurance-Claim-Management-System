@@ -17,7 +17,7 @@ The database follows a fully normalized structure and demonstrates real-world My
 
 The ERD below illustrates the complete data model for the Health Insurance Claim Management System.
 
-![ER Diagram](health_insurance_erd.png)
+![ER Diagram](https://raw.githubusercontent.com/aravindak08/Health-Insurance-Claim-Management-System/main/health_insurance_erd.png)
 
 ---
 
@@ -103,4 +103,5 @@ Records final claim settlement payments.
 
 ## 📄 License  
 You may add a license if needed (MIT recommended).
+
 
